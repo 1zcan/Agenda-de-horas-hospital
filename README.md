@@ -8,3 +8,6 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 
 npm install ---> npm run dev 
+
+
+![image](https://github.com/user-attachments/assets/2a6eab69-de68-4100-a4f2-c302f40f2d80)
